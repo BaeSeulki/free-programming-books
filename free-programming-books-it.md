@@ -19,6 +19,7 @@
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [Ruby](#ruby)
 * [Visual Basic](#visual-basic)
 
@@ -53,7 +54,6 @@
 
 ### C
 
-* [Guida al C di Blacklight](http://blacklight.gotdns.org/guidac.pdf) (PDF)
 * [Tricky C](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/Tricky_C.pdf) (PDF)
 
 
@@ -64,7 +64,7 @@
 
 ### CSS
 
-* [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf)(PDF)
+* [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
 
 
 ### GIT
@@ -83,7 +83,7 @@
 
 * [Guida a Java 8](http://twiki.di.uniroma1.it/pub/Metod_prog/RS_INFO/lezioni.html)
 * [Introduzione a Java](http://www.ateneonline.it/hyperbook/j_book/java2.htm)
-* [Java](https://it.wikibooks.org/wiki/Java) - Wikibooks
+* [Java 7](https://it.wikibooks.org/wiki/Java) - Wikibooks
 * [Object Oriented && Java 5 (II Edizione)](http://www.claudiodesio.com/download/oo_&&_java_5.zip) - Claudio De Sio Cesari (ZIP)
 
 
@@ -130,6 +130,11 @@
 * [Il tutorial di Python](http://docs.python.it/html/tut/)
 * [La libreria di riferimento di Python](http://docs.python.it/html/lib/)
 * [Pensare da Informatico, Versione Python](http://www.python.it/doc/Howtothink/Howtothink-html-it/index.htm)
+
+
+#### Django
+
+* [Il tutorial di Django Girls](https://tutorial.djangogirls.org/it/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### Ruby

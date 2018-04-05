@@ -21,14 +21,9 @@
 * [كتاب احترف الأردوينو](http://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) (PDF)
 
 
-### Git
-
-* [GIT](http://blog.algorithmers.com/git/)
-
-
 ### Introduction to programming in Arabic
 
-* [مختصر دليل لغات البرمجة ](http://alyassen.com/books/Brief-guide-to-programming-languages-v1.2.4.pdf) (PDF)
+* [مختصر دليل لغات البرمجة ](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (PDF)
 
 
 ### Linux

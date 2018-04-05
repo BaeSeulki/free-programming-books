@@ -14,6 +14,7 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [Javascript](#javascript)
+  * [Angular.js](#angularjs)
 * [Language Agnostic](#language-agnostic)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
@@ -32,6 +33,7 @@
 
 ### Bash
 
+* [Help messages will explain everything](https://explainshell.com)
 * [Learn Shell Programming](http://www.learnshell.org)
 
 
@@ -125,6 +127,14 @@
 * [Try jQuery](http://try.jquery.com)
 
 
+#### Angular.js
+
+* [Angular Basics](http://www.angularjsbook.com)
+* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
+* [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
+* [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
+
+
 ### Language Agnostic
 
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
@@ -174,6 +184,7 @@
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)
+* [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 
@@ -186,9 +197,7 @@
 
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
 * [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
-* [Hackety Hack](http://www.hackety.com)
 * [Ruby Koans](http://www.rubykoans.com)
-* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)
 
@@ -196,7 +205,12 @@
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
-* [Scala Tour](http://www.scala-tour.com)
+* [Scala Exercises](https://www.scala-exercises.org) 
+
+
+### Selenium
+
+* [Selenium Tutorial - Web Automation](http://www.techbeamers.com/selenium-webdriver-tutorial)
 
 
 ### SQL

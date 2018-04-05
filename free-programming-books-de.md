@@ -7,7 +7,9 @@
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
+* [Component Pascal](#component-pascal)
 * [Git](#git)
+* [Go](#go)
 * [Groovy](#groovy)
 * [HTML & CSS](#html--css)
 * [iOS](#ios)
@@ -18,6 +20,7 @@
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
 * [UML](#uml)
@@ -27,6 +30,7 @@
 
 ### Unabhängig von der Programmiersprache
 
+* [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de)
 * [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/)
 * [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
 * [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)
@@ -61,6 +65,11 @@
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
 
 
+### Component Pascal
+
+* [Module, Klassen, Verträge](http://karlheinz-hug.de/informatik/buch/Karlheinz-Hug_Module-Klassen-Vertraege.pdf) - Karlheinz Hug (PDF)
+
+
 ### C Sharp
 
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung/)
@@ -69,11 +78,11 @@
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/)
 
 
-### iOS
+### Go
 
-* [Apps programmieren für iPhone und iPad](http://openbook.rheinwerk-verlag.de/apps_programmieren_fuer_iphone_und_ipad/)
-* [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
-* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) (PDF)
+* [Effektiv Go Programmieren](http://www.bitloeffel.de/DOC/golang/effective_go_de.html)
+* [Eine Tour durch Go](https://go-tour-de.appspot.com/welcome/1)
+* [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/)
 
 
 ### Git
@@ -96,6 +105,13 @@
 * [Self HTML](https://wiki.selfhtml.org/wiki/Startseite)
 
 
+### iOS
+
+* [Apps programmieren für iPhone und iPad](http://openbook.rheinwerk-verlag.de/apps_programmieren_fuer_iphone_und_ipad/)
+* [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
+* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) (PDF)
+
+
 ### Java
 
 * [EJB 3 für Umsteiger: Neuerungen und Änderungen gegenüber dem EJB-2.x-Standard](http://bsd.de/e3fu/umfrage.html) - Heiko W. Rupp
@@ -103,6 +119,7 @@
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel/)
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau/)
 * [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung/)
+* [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF)
 
 
 ### Javascript
@@ -139,6 +156,11 @@
 ### Python
 
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de/)
+
+
+#### Django
+
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/es/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### Ruby on Rails
